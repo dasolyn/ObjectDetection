@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints
+
+# Generated from Keras
+*.hdf5
+*.h5
+config.pickle
+
+# Deep learning data/output folders
+dataset/
+images/
+results/
+
+# Python
+*.pyc
