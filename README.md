@@ -10,6 +10,7 @@
 - [tensorflow](https://github.com/tensorflow/tensorflow)
 - [h5py](https://github.com/h5py/h5py)
 - [opencv-python](https://github.com/skvark/opencv-python)
+- [pillow](https://github.com/python-pillow/Pillow)
 
 또한 ipynb 파일을 열기 위해서는 [jupyter notebook](https://jupyter.org/)을 시스템에 설치할 필요가 있습니다.
 
